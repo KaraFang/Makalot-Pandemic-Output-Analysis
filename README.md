@@ -18,7 +18,7 @@ Makalot Industrial Co., a global apparel manufacturer supplying brands such as G
 
 Analysis of 20K+ production orders in 2021 shows that Makalot’s total backlog reached 36.6 million units, with over 55% concentrated among three key buyers — GTG (31.2%), RTS (13.2%), and POP (12.3%). Backlog carried over from May totaled 0.1M units, an uncommon rise likely driven by pandemic-related shipment delays or customer deferrals, warranting further review to confirm root causes. Production demand peaked in September at 15.2M units, creating short-term warehouse congestion and fulfillment delays. These findings suggest potential benefits from balancing production and shipment timing to smooth monthly volume fluctuations and reduce capacity strain during high-demand periods.
 
-![Card](visualizations/card.png)
+![Card](Visualizations/card.png)
 
 ## Key Insights
 
@@ -28,14 +28,14 @@ Analysis of 20K+ production orders in 2021 shows that Makalot’s total backlog 
 - Volume peaked in September (15.2M units), indicating temporary production or logistics constraints.
 - Backlog declined gradually toward year-end as operations stabilized.
 
-![Monthly Trend](visualizations/monthly_supply_vs_demand_trend.png)
+![Monthly Trend](Visualizations/monthly_supply_vs_demand_trend.png)
 
 ### Buyer Concentration
 
 - Top three buyers — GTG (31.2%), RTS (13.2%), and POP (12.3%) — made up over half of total backlog.
 - Highlights potential dependency risk and the need for closer coordination with key accounts during disruption periods.
 
-![Top Buyers](visualizations/backlog_overview.png)
+![Top Buyers](Visualizations/backlog_overview.png)
 
 ### Operational Capacity
 
