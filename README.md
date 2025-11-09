@@ -22,7 +22,7 @@ Makalot Industrial Co., a global apparel manufacturer supplying brands such as G
 
 ## Executive Summary
 
-- Analysis of 20K+ production (2021) revealed that Makalot’s total backlog reached 36.6 million units, with over 55% concentrated among three key buyers — GTG (31.2%), RTS (13.2%), and POP (12.3%).
+- An analysis of over 20K production orders in 2021 revealed that Makalot’s total backlog reached 36.6 million units, with more than 55% concentrated among three key buyers — GTG (31.2%), RTS (13.2%), and POP (12.3%).
 
 - Backlog carried over from May (0.1M units), represented an unusual increase, likely driven by pandemic-related shipment delays or deferred customer schedules, warranting further review.
 
